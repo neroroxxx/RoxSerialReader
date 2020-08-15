@@ -1,0 +1,9 @@
+####################################################
+# Syntax Coloring Map
+####################################################
+
+RoxSerialMonitor	KEYWORD1
+begin	KEYWORD2
+read	KEYWORD2
+match	KEYWORD2
+getBuffer	KEYWORD2
